@@ -1,4 +1,4 @@
-baseURL = "https://annex.zshell.dev/"
+baseURL = "https://z-annex.github.io/"
 languageCode = "en"
 title = "❮ ZI ❯"
 theme = "github-style"
